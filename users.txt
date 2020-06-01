@@ -1,0 +1,53 @@
+{
+   "usuario":"joan89",
+   "password":"Rofftops"
+   
+};
+{
+   "usuario":"Rombomondo",
+   "password":"RubenRules"
+   
+};
+"El token es eyJhbGciOiJIUzI1NiJ9.Um9tYm9tb25kbw.QFqBnDoGLsrqsCbtnROoXZXjztwPZgAPAfyjkIO3bm4 del usuario Rombomondo"
+{
+   "usuario":"ramonaflowers",
+   "password":"123456"
+   
+};
+{
+   "usuario":"rodolf78",
+   "password":"ba3456"
+   
+};
+{
+   "usuario":"cris",
+   "password":"randalf"
+   
+};
+{
+   "usuario":"marta",
+   "password":"marta"
+   
+};
+{
+   "usuario":"Rulo",
+   "password":"Jug"
+   
+};
+"El token es eyJhbGciOiJIUzI1NiJ9.UnVsbw._4D1mezc_tQEp5t-AOq_2IgnVwDwZLfn0Acpx_uqYDY del usuario Rulo"
+///
+ejemplo json para carga de usuarios
+{
+"usuario":"marta",
+"nombre_apellido":"Marta Tomillo",
+"email":"tomillo@gmail.com",
+"tel":"249452275",
+"direccion":"Lomo 1367",
+"password":"marta"
+};
+
+
+
+El token es eyJhbGciOiJIUzI1NiJ9.bWFydGE.ytnbUVzO5S87rQwGhz7K6LgVyiR5tHdF1-pncNy_gR8 de marta
+
+
